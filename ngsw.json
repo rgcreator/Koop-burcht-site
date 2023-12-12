@@ -1,0 +1,99 @@
+{
+  "configVersion": 1,
+  "timestamp": 1702396812294,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/120.2656890c65a48427.js",
+        "/324.ac364ad963ea8e69.js",
+        "/390.374f40be3579e0ea.js",
+        "/813.024a53759aae43b7.js",
+        "/995.b2b79dbf3a5f5490.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.762398312d4e19d6.js",
+        "/manifest.webmanifest",
+        "/polyfills.0ae9b4a1eed4cdc4.js",
+        "/runtime.8fac0ec0b19eab91.js",
+        "/styles.b34932e4234a6812.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/glyphicons-halflings-regular.009b407a9881be10.ttf",
+        "/glyphicons-halflings-regular.4ba85deaf3670942.woff",
+        "/glyphicons-halflings-regular.85f0466cb4ab3a4d.svg",
+        "/glyphicons-halflings-regular.b70781972ce7320b.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/120.2656890c65a48427.js": "4bffba4087254a4685e62ac01d600b83856795d1",
+    "/324.ac364ad963ea8e69.js": "1c7b314d6ef83191ac5345585eac0fedab68082f",
+    "/390.374f40be3579e0ea.js": "66baa735a29580e58702d15316c5aa80679fca8e",
+    "/813.024a53759aae43b7.js": "6f3ff775a1e4224aa8b1bcb5e39f1a1683ac53a5",
+    "/995.b2b79dbf3a5f5490.js": "58f15913b5c4714f6dbcf7619cfca8638b4e4d9a",
+    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/glyphicons-halflings-regular.009b407a9881be10.ttf": "44bc1850f570972267b169ae18f1cb06b611ffa2",
+    "/glyphicons-halflings-regular.4ba85deaf3670942.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
+    "/glyphicons-halflings-regular.85f0466cb4ab3a4d.svg": "de51a8494180a6db074af2dee2383f0a363c5b08",
+    "/glyphicons-halflings-regular.b70781972ce7320b.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07",
+    "/index.html": "72ef973280992de731c84636e512a1a1a4ad8dac",
+    "/main.762398312d4e19d6.js": "2a286a5c9d71e008de037b254b0cb2f1dfdd5f3f",
+    "/manifest.webmanifest": "98928250e6e0e2fe1846dc388f32d81536471833",
+    "/polyfills.0ae9b4a1eed4cdc4.js": "0a31eae30817bbad30b62c6223642441c1957aae",
+    "/runtime.8fac0ec0b19eab91.js": "2854dfb85b67b3f283dfb0388cd5ab2ea7a71cf8",
+    "/styles.b34932e4234a6812.css": "31b3f6991631396f70b55454adcfef570981ecb1"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
